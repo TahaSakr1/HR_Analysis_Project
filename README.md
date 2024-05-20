@@ -56,6 +56,6 @@ You can view the Power BI report online [here](https://app.powerbi.com/view?r=YO
 
 ## View the Report as PDF
 
-You can view the report in PDF format [here](HR_Analysis_Report.pdf).
+You can view the report in PDF format [here](https://github.com/TahaSakr1/HR_Analysis_Project/blob/main/HR%20Analysis%20Report%20documentation.pdf).
 
 ## Get
